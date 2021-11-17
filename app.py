@@ -11,6 +11,6 @@ def index():
 
 @app.route('/hello')
 def hello():
-    return 'Hello, World'
+    return 'Lencof'
 
 app.run(host='0.0.0.0', port=81)
